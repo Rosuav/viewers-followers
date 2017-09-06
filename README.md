@@ -19,3 +19,11 @@ Data collection
    - If there aren't 100 followers, use whatever we have, as long as it's at least, say, 5 videos.
    - The game given won't necessarily reflect the entire stream, as it can change. It does seem to pick the majority though.
    - Some Creative streamers use IRL while being creative. Can I get the communities used during the stream??
+
+Analysis
+--------
+
+* Use follower count as the base value, and plot everything else relative to it.
+* Start with a pair of simple scatter plots showing viewer count and growth rate.
+  - Expect to see multiple clumps with a general upward line.
+* Finally, group by category, to see if the clumping improves.
