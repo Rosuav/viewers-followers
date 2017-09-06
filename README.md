@@ -21,6 +21,8 @@ Data collection
    - Some Creative streamers use IRL while being creative. Can I get the communities used during the stream??
    - Maybe just ignore any IRL videos when assigning to a category? But what if there's nothing else?
 
+Data collection will be done in Pike, using StilleBot facilities.
+
 Analysis
 --------
 
@@ -28,3 +30,5 @@ Analysis
 * Start with a pair of simple scatter plots showing viewer count and growth rate.
   - Expect to see multiple clumps with a general upward line.
 * Finally, group by category, to see if the clumping improves.
+
+Analysis will be done in Python with matplotlib.
