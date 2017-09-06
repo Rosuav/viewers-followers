@@ -19,6 +19,7 @@ Data collection
    - If there aren't 100 followers, use whatever we have, as long as it's at least, say, 5 videos.
    - The game given won't necessarily reflect the entire stream, as it can change. It does seem to pick the majority though.
    - Some Creative streamers use IRL while being creative. Can I get the communities used during the stream??
+   - Maybe just ignore any IRL videos when assigning to a category? But what if there's nothing else?
 
 Analysis
 --------
